@@ -1,5 +1,5 @@
 # interview task
-NB: I use Php 7 and laravel 8 <br>
+NB: I use Php 8.2 and laravel 10 <br>
 
 1.Clone The git repository<br>
 2.Rename The .env file.<pre>cp .env.example .env</pre><br>
